@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tapanhegde-portfolio/static/css/main.22789990.css",
+    "main.js": "/tapanhegde-portfolio/static/js/main.1103ca23.js",
+    "static/js/453.ed52167e.chunk.js": "/tapanhegde-portfolio/static/js/453.ed52167e.chunk.js",
+    "index.html": "/tapanhegde-portfolio/index.html",
+    "main.22789990.css.map": "/tapanhegde-portfolio/static/css/main.22789990.css.map",
+    "main.1103ca23.js.map": "/tapanhegde-portfolio/static/js/main.1103ca23.js.map",
+    "453.ed52167e.chunk.js.map": "/tapanhegde-portfolio/static/js/453.ed52167e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22789990.css",
+    "static/js/main.1103ca23.js"
+  ]
+}
